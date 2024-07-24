@@ -26,3 +26,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvkhullar1121&show_icons=true&locale=en" alt="garvkhullar1121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvkhullar1121&" alt="garvkhullar1121" /></p>
+
+
+# My skill set : 
+
+## HTML5
+## CSS
+## BOOTSTRAP 
+## JAVASCRIPT
+## OOPS IN JS
+## TERMINAL
+## GIT AND GITHUB 
+## NODE.JS
+## NODE.EXPRESS
+## NODE.EJS
+
