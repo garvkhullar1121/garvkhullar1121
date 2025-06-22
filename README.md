@@ -41,4 +41,9 @@
 ## NODE.EXPRESS
 ## NODE.EJS
 ## RESTFUL API
+## DBMS
+## AI 
+## PYTHON 
+## DSA 
+
 
