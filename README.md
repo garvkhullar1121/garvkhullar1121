@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garvkhullar1121" alt="garvkhullar1121" /></a> </p>
 
-- 🌱 I’m currently learning **Backend technologies and MERN stack**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/garvkhullar1121](https://github.com/garvkhullar1121)
 
